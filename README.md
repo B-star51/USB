@@ -152,24 +152,6 @@ Use USB Data Blockers – Devices that allow charging without data transfer.
 # Statistics 
  Accroding to an Article written by Honeywell in the year of 2024 51% of malware attcks are designed for USB attacks, a nearly six-fold increase from 9% in 2019. Making USB's a serious threat. 
 
- Percentage of Malware Attacks via USB
-|
-|                                                 *
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                        *                        |
-|                        |                        |
-|                        |                        |
-|                        |                        |
-|________________________|________________________|____
-                         2019                    2024
-                      (9%)                  (51%)
-
-Source: Honeywell Cybersecurity Report, 2024
 
 
 
